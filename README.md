@@ -52,14 +52,35 @@
 
 ### 弹性工程与运维
 
+* [章清-云原生助力AI-Cloud-SRE转型.pdf](/doc/ops/章清-云原生助力AI-Cloud-SRE转型.pdf)
+* [赵昱-云上自动化运维部署实践.pdf](/doc/ops/赵昱-云上自动化运维部署实践.pdf)
+
 ### 大数据与实时计算
+
+* [封神-不止于弹性-云原生数据湖体系构建之道.pdf](/doc/bigdata/封神-不止于弹性-云原生数据湖体系构建之道.pdf)
+* [郭俊-字节跳动联邦OLAP平台ByteQuery架构设计.pdf](/doc/bigdata/郭俊-字节跳动联邦OLAP平台ByteQuery架构设计.pdf)
+* [马晓宇-TiDB-HTAP的架构演进进展及实践.pdf](/doc/bigdata/马晓宇-TiDB-HTAP的架构演进进展及实践.pdf)
 
 ### 智能金融技术
 
+* [殷山-高性能强安全的隐私计算技术和挑战.pdf](/doc/finance/殷山-高性能强安全的隐私计算技术和挑战.pdf)
+* [张彭善-Paypal风险管理数据计算平台.pdf](/doc/finance/张彭善-Paypal风险管理数据计算平台.pdf)
+
 ### AI与音视频解决方案专场
+
+* [岑裕-超爱规模视频会议时间.pdf](/doc/ai/岑裕-超爱规模视频会议时间.pdf)
+* [王宇博-QCon-reInvent-AIML.pdf](/doc/ai/王宇博-QCon-reInvent-AIML.pdf)
+* [吴东辉-AI肢体识别技术在智能诊断上的实践.pdf](/doc/ai/吴东辉-AI肢体识别技术在智能诊断上的实践.pdf)
 
 ### 研发效能提升
 
+* [车明君-低代码及生产力中台提升研发效能.pdf](/doc/devlop/车明君-低代码及生产力中台提升研发效能.pdf)
+
 ### 微服务的“道”与“术”
 
+* [郑晔-微服务设计先行.pdf](/doc/micr-service/郑晔-微服务设计先行.pdf)
+
 ### 深度学习
+
+* [兰红云-强化学习在滴滴代驾仿真平台中的实践与挑战.pdf](/doc/deep-learning/兰红云-强化学习在滴滴代驾仿真平台中的实践与挑战.pdf)
+* [张迪-淘宝搜索推荐广告端到端深度学习平台.pdf](/doc/deep-learning/张迪-淘宝搜索推荐广告端到端深度学习平台.pdf)
