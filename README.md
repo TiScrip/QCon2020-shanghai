@@ -41,6 +41,7 @@
 * [强伟-百度搜索中台构建云原生架构可观测性的探索和实践.pdf](/cloud-native/强伟-百度搜索中台构建云原生架构可观测性的探索和实践.pdf)
 * [孙英男-B站大规模计算负载云原生化实践.pdf](/cloud-native/孙英男-B站大规模计算负载云原生化实践.pdf)
 * [杨森-达达双云双活架构实践.pdf](/cloud-native/杨森-达达双云双活架构实践.pdf)
+* [张培培-构建基于ServiceMesh的云原生微服务框架.pdf](/cloud-native/张培培-构建基于ServiceMesh的云原生微服务框架.pdf)
 
 ### 中台决策与实践
 
