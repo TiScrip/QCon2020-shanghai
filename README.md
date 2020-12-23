@@ -93,3 +93,7 @@
 * [王晓雷-华为深度学习网络性能调优实践.pdf](/deep-learning/王晓雷-华为深度学习网络性能调优实践.pdf)
 * [丁彧-数字虚拟人技术前沿与应用落地.pdf](/deep-learning/丁彧-数字虚拟人技术前沿与应用落地.pdf)
 
+### 业务架构演进
+
+* [刘桐仁-百度搜索中台内容架构Serverless化实践.pdf](/architecture/刘桐仁-百度搜索中台内容架构Serverless化实践.pdf)
+* [邬晶-滴滴国际化增长架构演进.pdf](/architecture/邬晶-滴滴国际化增长架构演进.pdf)
