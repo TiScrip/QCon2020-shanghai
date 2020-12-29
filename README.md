@@ -1,5 +1,5 @@
 # QCon2020
-2020年QCon全球开发者大会PPT来自[官网](https://qcon.infoq.cn/2020/shanghai)
+QCon上海2020全球开发者大会PPT来自[官网](https://qcon.infoq.cn/2020/shanghai)
 
 ## 上海站
 
